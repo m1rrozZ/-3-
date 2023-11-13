@@ -1,0 +1,260 @@
+body {
+    background-color: white;
+    color: white; 
+}
+
+img {
+    display: block;
+    max-width: 63%;
+    width: 16%;
+    height: auto;
+    margin-top: 43px;
+    margin-left: 72px;
+}
+
+.asset/ishfuaiskjsaoahfuaishifaj.jpg {
+    display: block;
+    max-width: 64%;
+    margin-top: 56px;
+
+}
+
+.text-image {
+    width: 500px;
+    height: 300px;
+    background-size: cover;
+    color: black;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .text-image p {
+    margin: 0;
+    margin-left: 56px;
+    margin-top: 37px;
+  }
+  
+  .text-image p:first-child {
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 56px;
+  }
+  
+  .text-image p:last-child {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 56px;
+  }
+
+  button {
+    display: block;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    margin-top: 20px;
+    width: 30%;
+    margin-left: 50px;
+  }
+
+ img[src = "asset/123123globe.jpg"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    opacity: 0.2;
+    width: 24%;
+    
+    margin-right: 880px;
+  }
+
+  img[src = "asset/firewall.jpg"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    width: 7%;
+    margin-right: 740px;
+    top: 20px;
+
+  }
+
+  .firewall-text {
+   
+    color: black;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 65px;
+    
+}
+
+.firewall-text p {
+    margin: 0;
+    margin-left: 56px;
+    margin-top: 9px;
+    margin-right: 206px;
+    width: 100%;
+    
+}
+
+.firewall-text p:first-child {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 56px;
+  }
+
+  img[src="asset/more-inform.jpg"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70px;
+    height: auto;
+    margin-right: 140px;
+    top: 20px;
+    margin-top: 75px;
+    
+}
+
+.firewall-text {
+   
+    color: black;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 65px;
+    
+}
+
+.firewall-text p {
+    margin: 0;
+    margin-left: 56px;
+    margin-top: 9px;
+    margin-right: 206px;
+    width: 100%;
+    
+}
+
+.firewall-text p:first-child {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 56px;
+  }
+
+
+  img[src="asset/data-analyz.jpg"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    width: 7%;
+    margin-right: 750px;
+    
+    top: 150px;
+  }
+
+
+  .dataan-text {
+   
+    color: black;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 185px;
+    margin-right: 100px;
+    
+}
+
+.dataan-text p {
+    margin: 0;
+    margin-left: 56px;
+    margin-top: 9px;
+    margin-right: 206px;
+    width: 100%;
+    top: 20 px;
+    
+}
+
+.dataan-text p:first-child {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 56px;
+  }
+
+  img[src="assets/Ramka.jpg.url"] {
+    width: 100%;
+  }
+
+  img[src="asset/more-inform2.jpg"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 70px;
+    height: auto;
+    margin-right: 140px;
+    top: 20px;
+    margin-top: 75px;
+    width: 5%;
+    margin-top: 193px;
+    margin-right: 239px;
+}
+
+img[src="asset/crypta.jpg"] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    width: 7%;
+    margin-right: 750px;
+    margin-top: 180px;
+    
+    top: 150px;
+}
+
+.crypta-text {
+   
+    color: black;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    padding: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 290px;
+    margin-right: 195px;
+    
+    
+}
+
+.crypta.text p {
+    margin: 0;
+    margin-left: 56px;
+    margin-top: 20px;
+    margin-right: 280px;
+    width: 100%;
+    top: 20 px;
+    
+}
+
+.crypta-text p:first-child {
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 186px;
+    
+  }
+
+  img[src="asset/more-inform3.jpg"] {
+    width: 5%;
+    margin-left: 1289px;
+    top: 50px;
+  }
